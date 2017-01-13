@@ -15,3 +15,5 @@ https://youtu.be/KDYzH0ezzNU
 https://youtu.be/TDiUUp-HkpE
 
 ![Ender Dragon] (enderdragon4.png)
+
+![moria] (mori-mines.jpg)
